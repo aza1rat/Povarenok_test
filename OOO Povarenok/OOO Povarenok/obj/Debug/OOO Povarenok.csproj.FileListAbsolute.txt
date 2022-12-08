@@ -1,0 +1,40 @@
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe.config
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.pdb
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csprojAssemblyReference.cache
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormTemplate.resources
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.Properties.Resources.resources
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.GenerateResource.cache
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.exe
+C:\Users\stud.P213-WSR\Downloads\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.pdb
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormAuthorization.resources
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormTemplate.resources
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.Properties.Resources.resources
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.GenerateResource.cache
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.exe
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.pdb
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe.config
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.pdb
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormViewProduct.resources
+C:\Users\1\Downloads\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormChangeProduct.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe.config
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.exe
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\bin\Debug\OOO Povarenok.pdb
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.AssemblyReference.cache
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormAuthorization.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormChangeProduct.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormViewProduct.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormTemplate.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.Properties.Resources.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.GenerateResource.cache
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.exe
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.pdb
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO_Povarenok.FormOrder.resources
+C:\Users\1\Documents\CSharp\KashitsinArtyom493-main\OOO Povarenok\OOO Povarenok\obj\Debug\OOO Povarenok.csproj.ResolveComReference.cache
